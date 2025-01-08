@@ -1,0 +1,6 @@
+pyaudio
+pygrabber
+numpy
+opencv-python
+asyncio
+pynput
